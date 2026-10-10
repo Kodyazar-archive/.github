@@ -1,23 +1,15 @@
 # KodYazar Archive
 
-KodYazar topluluğu bünyesinde düzenlenen yarışmalar, codejam etkinlikleri ve geliştirilen açık kaynak projeleri için kalıcı arşiv alanı.
+KodYazar topluluğu kapsamında gerçekleştirilen etkinlikler, yarışmalar ve geliştirilen açık kaynak çalışmaları için resmi arşiv organizasyonu.
 
----
+## Arşivleme İlkeleri
 
-### 📌 Arşivleme İlkeleri
+- **Telif ve Yazar Hakları:** Tüm projeler orijinal geliştiricilerin hakları korunarak, katkı geçmişi ve lisans bilgileri bozulmadan arşivlenir.
+- **Erişilebilirlik:** Kod tabanları topluluk üyelerinin ve yazılım geliştiricilerin incelemesi ve referans alması amacıyla açık tutulur.
+- **Bütünlük:** Etkinlik sürecinde teslim edilen sürümler kalıcı olarak muhafaza edilir.
 
-- **Orijinal Haklar ve Kaynak:** Arşivlenen tüm projeler orijinal geliştiricilerin hakları korunarak eklenir (fork veya kaynak belirtilerek). Katkı geçmişi ve yazar bilgileri korunur.
-- **Açık Erişim:** Kod tabanları topluluk üyelerinin incelemesi, öğrenmesi ve ilham alması için şeffaf bir şekilde tutulur.
-- **Kalıcılık:** KodYazar etkinliklerinde üretilen değerlerin kaybolmaması ve tek bir merkezden erişilebilmesi amaçlanır.
+## İletişim ve Topluluk
 
----
+Topluluk etkinlikleri, duyurular ve iletişim için:
 
-### 🎮 Öne Çıkan Arşivler
-
-- [nimbus-cloud-gaming](https://github.com/Kodyazar-archive/nimbus-cloud-gaming) — KodYazar Codejam 2026 bulut oyun konsepti projesi (Geliştirici: @KaramelliS).
-
----
-
-### 💬 Topluluk & İletişim
-
-- **Discord:** [discord.gg/9DY9eyruYZ](https://discord.gg/9DY9eyruYZ)
+- Discord: [discord.gg/kodyazar](https://discord.gg/kodyazar)
